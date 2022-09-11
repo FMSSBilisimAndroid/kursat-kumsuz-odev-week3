@@ -1,6 +1,6 @@
 ## 📸 GIF
 <p align="center">
-<img src="https://media.giphy.com/media/qXVJXaYw8dEwj0shaF/giphy.gif">
+<img src="https://media.giphy.com/media/N85ScjLCAMmoKYCzz5/giphy.gif">
   
-TextView'a yazdırılan sayı değeri onSaveInstanceState içine kaydedilir. Ekran döndürüldüğünde ise onViewStateRestored içinden alınır. Böylelikle kullanıcının yaptığı işlem kaldığı yerden devam eder.
+login_graph'tan main_graph'a geçildiğinde geri gitme durumu engellenmiştir. Geri tuşuna basıldığında uygulamadan çıkılmaktadır. main_graph NestedGraph olarak eklenmiştir.
  </p>
